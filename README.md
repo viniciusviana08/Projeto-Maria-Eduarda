@@ -15,11 +15,10 @@ Esta aplicação tem a funcionalidade de realizar a divulgação de eventos cult
  - Opção de Busca de eventos
 ## Tecnologias Utilizadas
 - **Linguagem/Frameworks:**
- Liste as principais tecnologias usadas no projeto, como por exemplo:
- - React Native
- - Expo
- - Node.js
- - Firebase
+ Linguagens e Ferramentas utilizadas
+ - HTML
+ - CSS
+ - Visual Studio Code
 ## Autores
 - Aluno responsável pelo projeto
     - Vinicius Viana - https://github.com/viniciusviana08 - vinicius.diasviana.senai@gmail.com
