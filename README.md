@@ -1,7 +1,7 @@
 ### Curso Técnico de Desenvolvimento de Sistemas - Senai Itapeva
-# App de Eventos Culturais
+![imagem de capa](/Assets/imagens/README/VIBRA%20EVENTIS.png)
 **Descrição:**
-Esta aplicação tem a funcionalidade de realizar a divulgação de eventos culturais na nossa cidade, facilitando para quem está buscando novos eventos e também para quem busca divulgar os seus eventos na cidade, facilitando assim a comunicação
+Esta aplicação tem a funcionalidade de realizar a divulgação de eventos culturais na nossa cidade, facilitando para quem está buscando novos eventos e também para quem busca divulgar os seus eventos na cidade.
 ## Índice
 - Funcionalidades
 - Tecnologias Utilizadas
